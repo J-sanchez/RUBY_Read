@@ -1,0 +1,1 @@
+File.open("new.txt", "r") { |file| puts file.read }
